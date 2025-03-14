@@ -2,7 +2,7 @@
 >作者：王聪彬  
 >来源：SiliconANGLE  
 
-<think>摘要</think>
+#### <think>摘要</think>
 
 段落1 
 
