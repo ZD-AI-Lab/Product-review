@@ -6,6 +6,6 @@
 
 段落1 
 
-![图片alt]（图片链接"图片title"） 
+![benchmark](https://img.zhiding.cn/moudlepic/35_module_images/1741934704444463.png)
 
 段落2 
