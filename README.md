@@ -15,8 +15,7 @@ AI时代，每个人都需要AI计算机，每个业务都需要接入AI模型�
 
 <h2 tabindex="-1" class="heading-element" dir="auto">✨ 评测视频</h2>
 
-<img width="1601" height="783" alt="image" src="https://github.com/user-attachments/assets/e379069b-ca19-4cd6-a159-69a91d72a11d" />
-![Uploading image.png…]()
+<img width="1608" height="788" alt="image" src="https://github.com/user-attachments/assets/a0864a5d-749d-452e-86aa-dec57f1c671a" />
 
 
 ============================================================================================
